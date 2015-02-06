@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-
+	"github.com/nicksnyder/go-i18n/i18n"
 	"github.com/asciinema/asciinema-cli/api"
 	"github.com/asciinema/asciinema-cli/cli"
 	"github.com/asciinema/asciinema-cli/commands"
